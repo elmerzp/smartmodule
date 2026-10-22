@@ -1,5 +1,5 @@
 # SmartModule
-> Extensión para Trimble SketchUp, de Melamina Ecuador, que diseña muebles de melamina de forma paramétrica y genera despiece, tapacantos, herrajes, optimización de corte, planos de armado y presupuesto en PDF.
+> Plugin y software para Trimble SketchUp, desarrollado por Melamina Ecuador para el diseño de muebles de melamina de forma paramétrica, con automatización de despiece, optimización de corte, planos técnicos, renders con IA y presupuestos en PDF.
 
 - [Qué es, qué hace y cómo funciona](https://smartmodule.melaminaecuador.com/): descripción completa del sistema
 - [Preguntas frecuentes](https://smartmodule.melaminaecuador.com/#preguntas-frecuentes)
